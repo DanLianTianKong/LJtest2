@@ -5,7 +5,11 @@ public class TestRRR {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("二铺大傻吊");
+		
+		
+		for (int i = 0; i < 100; i++) {
+			System.out.println("二铺大傻吊");
+		}
 
 	}
 
