@@ -11,6 +11,8 @@ public class TestMavenAndUtils {
 		
 		Date date = new Date();
 		DateUtils.addDays(date, 1);
+		
+		System.out.println("lajflkasjflkjalk");
 
 	}
 
