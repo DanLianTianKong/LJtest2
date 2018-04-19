@@ -15,6 +15,8 @@ public class TestMavenAndUtils {
 		System.out.println("lajflkasjflkjalk");
 		
 		System.out.println("sdkafjklsajdflkjaslkd");
+		
+		System.out.println("sdkafjklsajdflkjaslkd");
 
 	}
 
